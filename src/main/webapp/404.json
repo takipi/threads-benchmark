@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="application/json; charset=UTF-8" />
+</head>
+<body>
+
+{"status":404, "Message":"This reource is not exist"}
+
+</body>
+</html>
